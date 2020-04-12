@@ -1,2 +1,2 @@
-# Convert-RGB-to-YUV
-Conversion of RGB files to YUV files.
+# Mutual-conversions-of-RGB-and-YUV
+Convert RGB files to YUV files and vice versa.
